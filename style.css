@@ -1,0 +1,88 @@
+body {
+  background-color: limegreen;
+}
+
+.concluidos {
+  color: white;
+  padding: 1px 10px;
+  margin-left: 25px;
+  background-color: orangered;
+  border-radius: 5px;
+}
+
+.quadro {
+  background-color: white;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+#titulo {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#funcionamento {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  color: gray;
+}
+
+#criar-tarefa {
+  background-color: royalblue;
+  border-radius: 15px;
+  color: white;
+  border-color: royalblue;
+}
+
+#apaga-tudo {
+  background-color: darkred;
+  border-radius: 15px;
+  color: white;
+  border-color: darkred;
+}
+
+#remover-finalizados {
+  background-color: royalblue;
+  border-radius: 15px;
+  color: white;
+  border-color: royalblue;
+}
+
+#salvar-tarefas {
+  background-color: limegreen;
+  border-radius: 15px;
+  color: white;
+  border-color: limegreen;
+}
+
+.cinza {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.btn {
+  margin-top: 5px;
+  border-radius: 15px;
+  color: white;
+  width: 30px;
+  font-weight: 700;
+  background-color: red;
+  border-color: red;
+}
+
+.mover {
+  background-color: rgb(238 , 187 , 20);
+  border-color: rgb(238 , 187 , 20);
+}
+
+.item {
+  text-align: center;
+  margin-right: 40%;
+  border-radius: 10px;
+}
+
+.btn2 {
+  margin-top: 5px;
+}
